@@ -15,7 +15,7 @@
     "numeroEntrega": {
       "$id": "#root/numeroEntrega",
       "title": "Numeroentrega",
-      "type": "string",
+      "type": "integer",
       "examples": [
         1
       ],
